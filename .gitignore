@@ -1,0 +1,6 @@
+# Données personnelles : ne jamais publier
+suivi-psy/profil/
+profil/
+*.jsonl
+*.pdf
+.DS_Store
